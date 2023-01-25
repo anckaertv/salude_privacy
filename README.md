@@ -1,4 +1,4 @@
-#### Salude Privacy Policy
+# Salude Privacy Policy
 
 Victor Anckaert built the Salude app as a Free app. This SERVICE is provided by Victor Anckaert at no cost and is intended for use as is.
 
